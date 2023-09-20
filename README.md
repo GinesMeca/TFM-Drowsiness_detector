@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 # TFM-Drowsiness_detector
 ## About The Project
 
@@ -54,8 +53,6 @@ To deactivate the Conda environment when you're done with your project, you can 
 
 For more details on managing Conda environments, refer to the [Conda documentation](https://docs.conda.io/en/latest/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Usage
 
@@ -63,15 +60,11 @@ Once the environment is succesfully configured, to run the latest version of the
 
 In the same folder, there are two more configs by default that you can try, although they should work worse than the previous one. Also, you can play a bit with these configs, changing values like fps number, number of frames by prediction... Nevertheless, note that most of the params given through the config (for example: frame size, rgb or gray scale, model init frames...) are set according to the trained models included. Changing them can become an error.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial License](LICENSE). See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -92,8 +85,6 @@ Ginés Meca - [LinkedIn profile](https://www.linkedin.com/in/gin%C3%A9smeca/) - 
 
 Project Link: [https://github.com/GinesMeca/TFM-Drowsiness_detector](https://github.com/GinesMeca/TFM-Drowsiness_detector)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -106,8 +97,6 @@ Main resources:
 * [Face landmarks with Mediapipe](https://developers.google.com/mediapipe/solutions/vision/face_landmarker)
 * [pygame](https://www.pygame.org/news)
 * [PyCharm](https://www.jetbrains.com/es-es/pycharm/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
