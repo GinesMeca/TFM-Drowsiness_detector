@@ -64,7 +64,7 @@ In the same folder, there are two more configs by default that you can try, alth
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial License](LICENSE). See `LICENSE.txt` for more information.
+This project is licensed under the [Creative Commons Attribution-NonCommercial License](https://creativecommons.org/licenses/by-nc/4.0/). See `LICENSE.txt` for more information.
 
 
 
